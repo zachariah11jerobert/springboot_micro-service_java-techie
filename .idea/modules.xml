@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/service-order/order-service.iml" filepath="$PROJECT_DIR$/service-order/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-payment/payment-service.iml" filepath="$PROJECT_DIR$/service-payment/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-gateway/service-gateway.iml" filepath="$PROJECT_DIR$/service-gateway/service-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot_micro-service_java-techie.iml" filepath="$PROJECT_DIR$/.idea/springboot_micro-service_java-techie.iml" />
+    </modules>
+  </component>
+</project>
